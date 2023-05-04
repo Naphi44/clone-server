@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JL978/Spotify-FrontEnd-Clone.git"
+    "url": "git+https://github.com/Naphi44/Spotify-FrontEnd-Clone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JL978/Spotify-FrontEnd-Clone/issues"
+    "url": "https://github.com/Naphi44/Spotify-FrontEnd-Clone/issues"
   },
-  "homepage": "https://github.com/JL978/Spotify-FrontEnd-Clone#readme",
+  "homepage": "https://github.com/Naphi44/Spotify-FrontEnd-Clone#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "cookie-parser": "^1.4.5",
